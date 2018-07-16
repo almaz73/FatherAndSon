@@ -1,7 +1,6 @@
 <template>
     <div>
-ttutuyuyuyuy
-      878787878
+      Еще более длинный текст с работы набил
     </div>
 </template>
 
