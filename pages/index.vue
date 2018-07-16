@@ -10,7 +10,7 @@
       </h2>
       Show task:
       <a href="/task1"> 1, </a>
-      <a href="/task1"> 2,</a>
+      <a href="/task2"> 2</a>
       <div class="links">
         <a
           href="https://github.com/almaz73/FatherAndSon"
