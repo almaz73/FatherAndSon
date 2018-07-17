@@ -1,8 +1,8 @@
 <template>
   <div>
     <div>Blacksquadron</div>
-    <div class="Orange-area">
-      <div class="orangerectangle"></div>
+    <div class="Orange">
+      <div class="orangerectangle1"></div>
     </div>
   </div>
 </template>
@@ -19,7 +19,7 @@
     text-align: center;
   }
 
-  .Orange-area {
+  .Orange {
     width: 100%;
     height: 100%;
     position: fixed;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .orangerectangle {
+  .orangerectangle1 {
     background:orange;
     width: 100px;
     height: 100px;
