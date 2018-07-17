@@ -29,7 +29,7 @@
   }
 
   .orangerectangle1 {
-    background:orange;
+    background:orangered;
     width: 100px;
     height: 100px;
   }
