@@ -1,6 +1,10 @@
 <template>
   <div>
-    <div>Orangerectangle</div>
+    <div>
+    <h2>
+      Orangerectangle
+    </h2>
+    </div>
     <div class="Orange">
       <div class="orangerectangle1"></div>
     </div>
