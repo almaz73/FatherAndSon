@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>Blacksquadron</div>
+    <div>Orangerectangle</div>
     <div class="Orange">
       <div class="orangerectangle1"></div>
     </div>
